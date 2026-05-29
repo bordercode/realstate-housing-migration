@@ -1,0 +1,24 @@
+# YAML 1.2
+# CITATION.cff for your Real Estate Migration project
+
+cff-version: 1.2.0
+message: "If you use this code or its analysis, please cite it as below."
+title: "Replication Code for: Housing Affordability and Population Mobility: Evidence from US Metropolitan Statistical Areas."
+authors:
+  - family-names: "Manzanares Rivera"
+    given-names: "José Luis"
+    orcid: "https://orcid.org/0000-0003-3394-4967" # Optional but excellent
+version: 1.0.0
+date-released: 2026-05-28 # Use today's date
+doi: 10.5281/zenodo.XXXXXXX # We will reserve this DOI in the next step
+url: "https://github.com/bordercode/realstate-housing-migration"
+license: "CC-BY-4.0"
+repository-code: "https://github.com/bordercode/realstate-housing-migration"
+keywords:
+  - migration
+  - housing-prices
+  - real-estate
+  - metropolitan-areas
+  - california
+  - spatial-analysis
+type: software
